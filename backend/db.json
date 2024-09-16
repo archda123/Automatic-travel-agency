@@ -1,0 +1,33 @@
+{
+  "vehicles": [],
+  "routes": [],
+  "drivers": [],
+  "customers": [],
+  "bookings": [],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "token": "fake-jwt-token"
+    },
+    {
+      "id": 2,
+      "username": "customer",
+      "password": "customer123",
+      "role": "customer",
+      "token": "fake-jwt-token"
+    },
+    {
+      "username": "admin",
+      "password": "admin123",
+      "id": 3
+    },
+    {
+      "username": "admin",
+      "password": "admin123",
+      "id": 4
+    }
+  ]
+}
